@@ -1,0 +1,1 @@
+# FromGroceriestoGadgets-ResearchParer
