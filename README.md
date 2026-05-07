@@ -47,7 +47,7 @@ The study uses secondary data analysis combined with anonymized retail media cam
 
 ---
 
-## 🌐 Industry Context
+## Industry Context
 
 This research is situated within a rapidly growing digital advertising landscape:
 - India's quick commerce market projected to grow **10–15x** to USD 5.5–7 billion by 2025 (RedSeer, 2023)
